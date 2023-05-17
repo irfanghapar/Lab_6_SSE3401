@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "682149961945",
+    "project_id": "lab6sse3401",
+    "storage_bucket": "lab6sse3401.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682149961945:android:3395930841778d97111ec8",
+        "android_client_info": {
+          "package_name": "com.irfan.brew_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682149961945-75tlfbd9q7eu20tlsb603hskftabf3bd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2kZpjDvIPkTpYlBId6xWL5d-6tNzgVDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682149961945-75tlfbd9q7eu20tlsb603hskftabf3bd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
